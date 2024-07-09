@@ -101,7 +101,7 @@ function criarJanelaBoasVindas() {
         }
     };
 
-    var btnAlterarCorPainel = perfilUsuario.add("button", undefined, "🌈 Alterar Cor do Painel");
+    var btnAlterarCorPainel = perfilUsuario.add("button", undefined, "🌈 Alterar Cor do Painel🌈");
     btnAlterarCorPainel.alignment = "right";
     btnAlterarCorPainel.onClick = function () {
         var cores = [];
